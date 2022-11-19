@@ -227,3 +227,6 @@ end)
 
 
 local Section = Tab:NewSection("Auto buy [유로 버젼만]")
+
+local Tab = Window:NewTab("credit")
+local Section = Tab:NewSection("Made By Flip")
